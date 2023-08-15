@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  text-align: center;
+  font-family: 'Roboto';
+  padding: 62px;
+  margin: 20%;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+}
+
+.heading {
+  font-weight: bold;
+  color: #0f172a;
+}
+
+.even-odd {
+  color: #334155;
+  margin-bottom: 18px;
+}
+
+.button {
+  background-color: #ffffff;
+  font-size: 10px;
+  color: #1e293b;
+  width: 100px;
+  padding: 8px;
+  border: 0px;
+  border-radius: 6px;
+}
+
+.para {
+  font-size: 8px;
+  color: #334155;
+}
